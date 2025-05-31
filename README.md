@@ -1,6 +1,6 @@
-# Gemini A2A Travel Agent: AI-Powered Trip Planning
+# Waldo Worldwide Travel Agent: AI-Powered Trip Planning
 
-This project demonstrates how Google's Gemini language model can function as an intelligent travel agent by integrating with a custom Agent-to-Agent (A2A) server. The travel agent leverages the capabilities of the [google-maps-a2a-server](https://github.com/jeantimex/google-maps-a2a-server) to provide context-aware travel recommendations, directions, and location information.
+Waldo demonstrates how Google's Gemini language model can function as an intelligent travel agent by integrating with a custom Agent-to-Agent (A2A) server. The travel agent leverages the capabilities of the [google-maps-a2a-server](https://github.com/jeantimex/google-maps-a2a-server) to provide context-aware travel recommendations, directions, and location information.
 
 The core concept is using Gemini's "Function Calling" (also known as Tool Use) feature to delegate specific tasks to the external A2A service, enabling richer, more natural conversations about travel planning.
 
@@ -17,6 +17,7 @@ This project showcases how an AI agent can work effectively by:
 
 ## Features
 
+*   **OPC Mode:** A specialized agent with acess to Travel Promotions that allow significant discounts on hotels, cruises, and activities 
 *   **Travel Agent Mode:** A specialized agent that demonstrates how AI can act as a travel assistant, helping with trip planning and leveraging Google Maps tools.
 *   **Conversational AI:** Chat interactively with the Gemini model.
 *   **Tool Integration:** Seamlessly uses tools provided by a running A2A server.
