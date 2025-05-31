@@ -1,4 +1,4 @@
-# Waldo Worldwide Travel Agent: AI-Powered Trip Planning
+# Waldo Worldwide Travel Agent: AI-Powered Concierge 
 
 Waldo demonstrates how Google's Gemini language model can function as an intelligent travel agent by integrating with a custom Agent-to-Agent (A2A) server. The travel agent leverages the capabilities of the [google-maps-a2a-server](https://github.com/jeantimex/google-maps-a2a-server) to provide context-aware travel recommendations, directions, and location information.
 
